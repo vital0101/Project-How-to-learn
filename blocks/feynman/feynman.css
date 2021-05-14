@@ -6,7 +6,7 @@
   background-image: url(../../images/blocks/feynman/feinman.png);
   background-position: left bottom;
   background-repeat: no-repeat;
-  height: 890px;
+  min-height: 890px;
   position: relative;
   background-color: #f2f2f2;
 }
